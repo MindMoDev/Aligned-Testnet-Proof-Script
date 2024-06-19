@@ -29,3 +29,5 @@ chmod +x AlignedLayer-Testnet-Proof.sh
 ./AlignedLayer-Testnet-Proof.sh
 ```
 
+Nun sollst du sowas sehen. Mach ein screenshot davon und speicher das.
+![image](https://github.com/MindMoDev/Aligned-Testnet-Proof-Script/assets/159486944/d4c58f8a-6e4a-47bf-b174-cdda96fefde7)
