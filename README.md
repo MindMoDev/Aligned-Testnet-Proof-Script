@@ -5,8 +5,8 @@ Für dieses Script ist ein Ubuntu/Linux System notwendig.
 
 1. Installieren Sie Git, falls es noch nicht installiert ist:
 ```
-apt update
-apt install git -y
+sudo apt update
+sudo apt install git -y
 ```
 
 2. Klonen Sie das GitHub-Repository:
