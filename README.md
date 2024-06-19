@@ -1,5 +1,7 @@
 # Aligned-Testnet-Proof-Script
 An autoscript for the testnet-proof
+Man geht davon aus, dass Sie bereits einen VPS oder Docker Container bereits haben.
+Für dieses Script ist ein Ubuntu/Linux System notwendig.
 
 1. Installieren Sie Git, falls es noch nicht installiert ist:
 ```
