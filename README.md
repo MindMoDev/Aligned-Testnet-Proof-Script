@@ -50,7 +50,7 @@ Link zum Discord Server - https://discord.gg/alignedlayer
 ![image](https://github.com/MindMoDev/Aligned-Testnet-Proof-Script/assets/159486944/c1582bf6-9bc4-4383-a7f9-18d048ddd8a7)
 
 
-#Troubleshooting
+# Troubleshooting
 Solltest du keine Ausgabe angezeigt kriegen, dann für folgende Befehle einzelned aus:
 
 1. Erste Ausgabe
