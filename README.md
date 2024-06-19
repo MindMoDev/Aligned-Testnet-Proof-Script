@@ -45,8 +45,33 @@ chmod +x AlignedLayer-Testnet-Proof.sh
 ![image](https://github.com/MindMoDev/Aligned-Testnet-Proof-Script/assets/159486944/6dc91e8a-cab3-4b3e-8735-329d00965a1c)
 
 9. Senden Sie den Link zum Twitter Post im Aligned Discord(Testnet Chat).
+Link zum Discord Server - https://discord.gg/alignedlayer
 
 ![image](https://github.com/MindMoDev/Aligned-Testnet-Proof-Script/assets/159486944/c1582bf6-9bc4-4383-a7f9-18d048ddd8a7)
+
+
+Troubleshooting:
+Solltest du keine Ausgabe angezeigt kriegen, dann für folgende Befehle einzelned aus:
+
+1. Erste Ausgabe
+```
+rm -rf ~/aligned_verification_data/ &&
+aligned submit \
+--proving_system SP1 \
+--proof ~/.aligned/test_files/sp1_fibonacci.proof \
+--vm_program ~/.aligned/test_files/sp1_fibonacci-elf \
+--aligned_verification_data_path ~/aligned_verification_data \
+--conn wss://batcher.alignedlayer.com 
+```
+
+2. Zweite Ausgabe
+```
+aligned verify-proof-onchain \
+--aligned-verification-data ~/aligned_verification_data/*.json \
+--rpc https://ethereum-holesky-rpc.publicnode.com \
+--chain holesky
+```
+
 
 
 
