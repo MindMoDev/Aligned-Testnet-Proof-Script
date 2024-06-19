@@ -29,7 +29,19 @@ chmod +x AlignedLayer-Testnet-Proof.sh
 ./AlignedLayer-Testnet-Proof.sh
 ```
 
-Nun sollst du sowas sehen. Mach ein screenshot davon und speicher das.
-![image](https://github.com/MindMoDev/Aligned-Testnet-Proof-Script/assets/159486944/d4c58f8a-6e4a-47bf-b174-cdda96fefde7)
+6. Nun solltest du sowas sehen. Mach ein screenshot davon und speicher es.
+![image](https://github.com/MindMoDev/Aligned-Testnet-Proof-Script/assets/159486944/9082fcb5-911d-467e-8c27-41a7b2ebb296)
+
+7. Klick auf den Explorer Link,der bei dir erscheint.
+![image](https://github.com/MindMoDev/Aligned-Testnet-Proof-Script/assets/159486944/808b6598-ba0a-4c76-90d5-8e9e2d56a165)
+
+8. Num erstelle ein Twitter post, wie auf dem Bild.
+![image](https://github.com/MindMoDev/Aligned-Testnet-Proof-Script/assets/159486944/6dc91e8a-cab3-4b3e-8735-329d00965a1c)
+
+9. Sende nun den Link von dem Twitter Post in den Aligned Discord 
+![image](https://github.com/MindMoDev/Aligned-Testnet-Proof-Script/assets/159486944/c1582bf6-9bc4-4383-a7f9-18d048ddd8a7)
+
+
+
 
 
