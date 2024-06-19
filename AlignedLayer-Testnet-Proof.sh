@@ -40,14 +40,11 @@ echo '
 
 # Update system and install necessary packages
 echo "🔄 Updating the system and installing necessary packages..."
-# sudo
-apt update -y
-# sudo
-apt upgrade -y
+sudo apt update -y
+sudo apt upgrade -y
 
 echo "🔄 Installing curl..."
-# sudo 
-apt-get install curl -y
+sudo apt-get install curl -y
 
 # Install aligned
 echo "🔄 Downloading and installing Aligned Layer tools..."
