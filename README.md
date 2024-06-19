@@ -28,3 +28,4 @@ chmod +x AlignedLayer-Testnet-Proof.sh
 ```
 ./AlignedLayer-Testnet-Proof.sh
 ```
+
